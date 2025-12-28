@@ -189,30 +189,6 @@ const App: React.FC = () => {
                     </div>
                   </a>
                 ))}
-
-                <div className="border border-secondary p-3 rounded-4 transition-all">
-                  <div className="d-flex justify-content-between align-items-center">
-                    <div>
-                      <Badge bg="primary" className="mb-2 uppercase" style={{ fontSize: "10px" }}>
-                        Praksa
-                      </Badge>
-                      <h6 className="text-black mb-1 fw-bold">JP BH Pošta d.o.o. Sarajevo</h6>
-                   
-                    </div>
-                  </div>
-                </div>
-
-                <div className="border border-secondary p-3 rounded-4 transition-all">
-                  <div className="d-flex justify-content-between align-items-center">
-                    <div>
-                      <Badge bg="primary" className="mb-2 uppercase" style={{ fontSize: "10px" }}>
-                        Pripravnički staž
-                      </Badge>
-                      <h6 className="text-black mb-1 fw-bold">JP BH Pošta d.o.o. Sarajevo</h6>
-                      
-                    </div>
-                  </div>
-                </div>
               </div>
             </Card>
           </Col>
