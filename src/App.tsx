@@ -30,7 +30,7 @@ const App: React.FC = () => {
     naziv: "Univerzitet u Sarajevu",
     fakultet: "Ekonomski fakultet Sarajevo",
     smjer: "Menadžment i informacione tehnologije",
-    period: "2021. - 2022.",
+    period: "2021. - 2023.",
   };
 
   const projekti: Projekat[] = [
@@ -197,9 +197,7 @@ const App: React.FC = () => {
                         Praksa
                       </Badge>
                       <h6 className="text-black mb-1 fw-bold">JP BH Pošta d.o.o. Sarajevo</h6>
-                      <p className="text-secondary mb-0 small" style={{ fontSize: "12px" }}>
-                        Razvoj zvanične web stranice u sklopu projekta za praksu.
-                      </p>
+                   
                     </div>
                   </div>
                 </div>
@@ -211,10 +209,7 @@ const App: React.FC = () => {
                         Pripravnički staž
                       </Badge>
                       <h6 className="text-black mb-1 fw-bold">JP BH Pošta d.o.o. Sarajevo</h6>
-                      <p className="text-secondary mb-0 small" style={{ fontSize: "12px" }}>
-                        Razvoj nove stranice za slanje najava za fizička lica. <br/>
-                        Razvoj nove intranet web stranice.
-                      </p>
+                      
                     </div>
                   </div>
                 </div>
