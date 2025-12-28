@@ -197,7 +197,7 @@ const App: React.FC = () => {
           <Col xs={12}>
             <footer className="mt-5 pt-4 border-top border-secondary d-flex flex-column flex-md-row justify-content-between align-items-center opacity-75">
               <p className="small text-secondary mb-3 mb-md-0 text-center">
-                © 2025 {imePrezime} • Rađeno u React sa React Bootstrap • Statična one page stranica
+                © 2025 {imePrezime} • Rađeno u React sa React Bootstrap
               </p>
               <div className="d-flex gap-4">
                 <a href="mailto:maja.lojo@outlook.com" className="text-primary text-decoration-none small fw-bold text-uppercase tracking-wider">Kontaktiraj me!</a>
