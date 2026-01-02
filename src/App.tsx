@@ -4,7 +4,6 @@ import { FaReact } from "react-icons/fa";
 import { DiMsqlServer } from "react-icons/di";
 import { VscAzure } from "react-icons/vsc";
 import { SiDotnet } from "react-icons/si";
-import { FaArrowCircleRight } from "react-icons/fa";
 import { FaFigma } from "react-icons/fa";
 import { DiMysql } from "react-icons/di";
 import { DiBootstrap } from "react-icons/di";
@@ -20,9 +19,7 @@ import zahvalnica from "./assets/zahvalnica.jpg";
 
 interface Projekat {
   naziv: string;
-  opis: string;
   godina: string;
-  link: string;
   tag: string[];
 }
 
