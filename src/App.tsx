@@ -202,7 +202,7 @@ const App: React.FC = () => {
                   <ListGroup.Item as={"a"}  target="_blank" rel="noreferrer" href={"https://eu4digitalsme.ba/biblioteka/digitalne-konsultacije-decembar-2022/"} style={{textDecoration:"underline"}} className="bg-transparent text-secondary border-0 px-3 py-3 small">
                     <span className="text-primary me-2">●</span> Učesnik na događaju "Dani digitalnih konsultacija: Collaborathon 2022"
                   </ListGroup.Item>
-                  <Badge style={{width:"25%"}} className={"mx-2"} bg="primary" pill>2022. - 2023.</Badge>
+                  <Badge style={{width:"28%"}} className={"mx-2"} bg="primary" pill>2022. - 2023.</Badge>
                   <ListGroup.Item className="bg-transparent text-secondary border-0 px-3 py-3 small">
                     <span className="text-primary me-2">●</span> Team Leader volontera u Centru za menadžment i informacione tehnologije
                   </ListGroup.Item>
